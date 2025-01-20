@@ -1,5 +1,1 @@
-# demo
-This is my first git reporsitory
-<br>
-Author-Gourav
-HEllo world I want to be good at programming
+This contains all my DSA Lab codes
